@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Первое приложение</string>
+    <string name="btn_name">Привет</string>
+    <string name="txtStart">Привет мир!</string>
+    <string name="txtClick">Привет Сергей!</string>
+
+</resources>
